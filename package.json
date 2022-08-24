@@ -44,7 +44,7 @@
   "devDependencies": {
     "@types/node": "^15.12.2",
     "batch": "0.5.3",
-    "browserify": "^16.2.3",
+    "browserify": "^17.0.0",
     "cross-spawn": "^6.0.5",
     "mocha": "^5.2.0",
     "should": "^11.1.1",
